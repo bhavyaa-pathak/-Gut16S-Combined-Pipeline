@@ -1,0 +1,17 @@
+﻿.RData
+.Rhistory
+.Rproj.user/
+*_checkpoint.RData
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+*.fa
+*.fasta
+*.fa.gz
+*.fasta.gz
+cache/
+downloads/
+raw_data/
+Team_Analysis/
+Gut16S-Team-Final.zip
